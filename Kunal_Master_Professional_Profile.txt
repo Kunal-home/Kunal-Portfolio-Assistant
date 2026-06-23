@@ -1,0 +1,238 @@
+MASTER PROFESSIONAL PROFILE
+
+Name: Kunal Kumar
+Location: South Delhi, India
+Email: Kumarkunal1192@gmail.com
+Phone: +91 7290973976
+
+LinkedIn:
+http://www.linkedin.com/in/kunalkumar-st
+
+GitHub:
+https://github.com/Kunal-home
+
+==================================================
+CAREER OBJECTIVE
+==================================================
+
+Aspiring Agentic AI and Generative AI Developer with a strong foundation in Python, SQL, Data Analytics, Software Testing, and Large Language Models. Experienced in quality assurance, data validation, API testing, and statistical analysis. Passionate about building AI agents, autonomous workflows, RAG applications, and enterprise AI solutions.
+
+==================================================
+PROFESSIONAL SUMMARY
+==================================================
+
+Data Analyst and QA professional with experience in gaming and technology domains. Skilled in Python, SQL, Power BI, API Testing, Database Testing, RTP Validation, and Statistical Testing using R Studio. Hands-on exposure to Generative AI, Prompt Engineering, AI Agents, and LangChain-based applications. Currently pursuing advanced Agentic AI training through Udemy and building AI-powered portfolio projects.
+
+==================================================
+CAREER GOAL
+==================================================
+
+Target Roles:
+- Agentic AI Developer
+- Generative AI Developer
+- AI Engineer
+- LLM Application Developer
+
+Long-Term Goal:
+Build enterprise-grade AI agents, multi-agent systems, RAG applications, AI copilots, and autonomous business automation solutions.
+
+==================================================
+EDUCATION
+==================================================
+
+Master of Computer Applications (MCA)
+Jagannath Community College, Delhi
+specialization in Data Science and Analytics
+2023 - 2025
+Percentage: 80%
+
+Bachelor of Computer Applications (BCA)
+Mohyal Institute of Technology, Delhi
+2019 - 2022
+Percentage: 69.36%
+
+Class 12 (Science)
+Shyama Prasad Vidyalaya (CBSE)
+2017 - 2018
+Percentage: 62.36%
+
+Class 10
+Shyama Prasad Vidyalaya (CBSE)
+2015 - 2016
+CGPA: 7.8
+
+==================================================
+PROFESSIONAL EXPERIENCE
+==================================================
+
+Data Analyst / QA Engineer
+Tecziq Solutions
+September 2025 - Present
+
+Responsibilities:
+- Functional Testing
+- Regression Testing
+- Localization Testing
+- API Testing using Postman
+- Database Testing using SQL
+- RTP Validation
+- Statistical Randomness Testing
+- Run Test using R Studio
+- Chi-Square Testing
+- Bug Reporting and Tracking
+- Smoke and Sanity Testing
+- Collaboration with Product and Development Teams
+
+Tools:
+- SQL
+- Postman
+- Jira
+- Trello
+- R Studio
+- Excel
+
+--------------------------------------------------
+
+QA Engineer
+Rein Games
+March 2025 - September 2025
+
+Projects:
+- MyTeam11
+- Zupee
+- Khiladi Adda
+- Rummy Platform
+
+Responsibilities:
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- UI/UX Testing
+- Compatibility Testing
+- Responsible Gaming Compliance Validation
+- Defect Reporting and Tracking
+
+==================================================
+TECHNICAL SKILLS
+==================================================
+
+Programming Languages:
+- Python
+- SQL
+- Java
+- C
+- C++
+- HTML
+- CSS
+- PHP
+
+Data & Analytics:
+- Power BI
+- Excel
+- MySQL
+- Data Analysis
+- Reporting
+
+Artificial Intelligence:
+- Generative AI
+- Agentic AI
+- Prompt Engineering
+- AI Agents
+- LangChain
+- RAG
+- LLM Applications
+- AI Workflow Automation
+
+Testing:
+- Functional Testing
+- Regression Testing
+- API Testing
+- Database Testing
+- Smoke Testing
+- Compliance Testing
+- Localization Testing
+- UAT Testing
+
+Tools:
+- Postman
+- Jira
+- Trello
+- Zoho Sprint
+- R Studio
+- Jupyter Notebook
+- VS Code
+- PyCharm
+- Firebase
+
+Methodologies:
+- Agile
+- Scrum
+
+==================================================
+CERTIFICATIONS
+==================================================
+
+Generative AI Foundation Program
+upGrad × Microsoft
+November 2025
+
+Python Programming with Django
+September 2024
+
+Agentic AI Course (In Progress)
+Udemy
+
+Topics:
+- AI Agents
+- Multi-Agent Systems
+- LangChain
+- LangGraph
+- RAG
+- Agent Orchestration
+- Autonomous Workflows
+
+==================================================
+PORTFOLIO PROJECTS
+==================================================
+
+AI Chat Application (In Development)
+
+Tech Stack:
+- Python
+- LangChain
+- LLMs
+- Streamlit
+- Vector Database
+
+Features:
+- Conversational AI
+- Session Management
+- Chat History
+- Context Retention
+- RAG Support
+
+(Add future projects here)
+
+==================================================
+AREAS OF INTEREST
+==================================================
+
+- Agentic AI
+- Generative AI
+- Large Language Models
+- AI Agents
+- RAG Systems
+- Multi-Agent Systems
+- AI Automation
+- Data Analytics
+- QA Automation
+
+==================================================
+PROFESSIONAL LINKS
+==================================================
+
+LinkedIn:
+http://www.linkedin.com/in/kunalkumar-st
+
+GitHub:
+https://github.com/Kunal-home
