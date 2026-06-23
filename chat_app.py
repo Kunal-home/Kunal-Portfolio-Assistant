@@ -273,7 +273,7 @@ if prompt:
                     time.sleep(0.03)
                 
     st.session_state.messages.append({"role":"assistant","content":assistant_response})
-   
+    st.rerun() 
 
 with st.sidebar:
     st.markdown("""
