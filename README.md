@@ -50,6 +50,8 @@ streamlit run app.py
 📝 Usage
 Chat: Use the chat interface to ask any questions about Kunal’s professional background.
 
+Demo: https://kunal-portfolio-ai-assistant.streamlit.app
+
 Quick Topics: Click the buttons in the sidebar or the main interface to trigger common queries.
 
 Resume: Click the "Download Resume" button in the sidebar to get a copy of the PDF.
